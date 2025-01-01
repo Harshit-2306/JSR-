@@ -2,6 +2,5 @@
 This is my first Repository
 <br>
 Author : Harshit Tiwari
-<title>
+<br>
  Its Start of My Coding Journey
-</title>
